@@ -1,7 +1,6 @@
 ## Olá! meu nome é mauricio e bem-vindo ao meu git 👻 
  
 <h4 align="center">
- <a href = https://discord.gg/yV7UwzwTxP>
  <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
   <a href =https://instagram.com/_mauricioscb?igshid=MzRlODBiNWFlZA==>
  <img src =https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
