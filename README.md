@@ -4,7 +4,6 @@
  <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
   <a href =https://instagram.com/_mauricioscb?igshid=MzRlODBiNWFlZA==>
  <img src =https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
-  <a href =https://www.youtube.com/watch?v=dQw4w9WgXcQ>
    <img src =https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white>
    <a href =https://www.linkedin.com/in/mauricio-siqueira-cavalcante-bernardo-6a72aa235>
     <img src =https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
