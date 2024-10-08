@@ -32,7 +32,7 @@
   <img width="150" height="150" src="https://media.giphy.com/media/WCtRYR2Km3v2ipMc0t/giphy.gif"/>
     <a href="https://github.com/MauricioSiqueira/">
       <img height="150em"src="https://github-readme-stats.vercel.app/api?username=MauricioSiqueira&theme=radical"/>
-      <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark"/>
+      <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioSiqueira&hide=html&layout=compact&theme=dark"/>
     </a>
   </div>
 
