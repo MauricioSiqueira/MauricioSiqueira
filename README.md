@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,swift,git,github,vscode,nodejs,react,nextjs,mongodb,mysql,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,unity,py,postgres,kotlin,java,dotnet,cpp,cs,c&perline=5" />
   </a>
 </p>
 
