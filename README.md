@@ -1,20 +1,61 @@
-## Hello World!, I´m Maurice  
- 
-<h4 align="center">
- <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
-  <a href =https://instagram.com/_mauricioscb?igshid=MzRlODBiNWFlZA==>
- <img src =https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
-   <a href =https://www.linkedin.com/in/mauricio-siqueira-cavalcante-bernardo-6a72aa235>
-    <img src =https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-   <a href = https://www.youtube.com/channel/UCHEgu5hc1kk6JL3_dgJ4xDA>
-    <img src = https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white>
- </a>
-</h4>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-Prazer, me chamo Mauricio Bernardo, sou apaixonado por tecnologia desde muito pequeno, quando  criança cresci em meio a jogos e animes na companhia dos meus primos, meu primeiro contato com a programação foi durante meu ensino médio, eu tinha por volta de 17 anos,  quando meu amigo me chamou para criar um bot para o Discord, e aos poucos fui me interessando mais sobre a parte da programação. Sempre tive a curiosidade de saber como os jogos são feitos e pensei comigo mesmo - why not ? Comecei a estudar sobre e acabei me apaixonando novamente pelo mundo dos jogos e decidi fazer disso minha vida. No momento, minhas tecnologias são C#, Entity Framework, PostgresSql e .Net 8, também possuo conhecimentos em JavaScript, NestJs, C e C++.
+<p align="left"> 
+  Hello World! Eu sou João Antônio, estudante de <strong>Ciências da Computação</strong> atualmente no 6º Periodo especialista em desenvolvimento Back-end e atuante como fullStack
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MauricioSiqueira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MauricioSiqueira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MauricioSiqueira&theme=nord_dark) |
-| :-: | :-: | :-: |
+<p align="left">
+  🦄 Languages: <strong>JavaScript & TypeScript</strong>
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioSiqueira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MauricioSiqueira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+<p align="left">
+  💼 Tools: <strong>React.Js | Nest.Js | PostgreSQL</strong>
+</p>
+
+<p align="left">
+  💌 come on interact, sand me a menssage: ⤵️
+</p>
+
+<div align="left">
+  <a href="https://www.instagram.com/_joaoalencarl/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-b222d2?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
+  
+  <a href="https:https://www.linkedin.com/in/joaoalencarlima/">
+    <img src="https://img.shields.io/badge/-Linkedin-b222d2?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://discord.gg/bD23BU7Rdg" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-b222d2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
+  </a>
+</div>
+
+##
+
+  <div align="center">
+  <img width="150" height="150" src="https://media.giphy.com/media/WCtRYR2Km3v2ipMc0t/giphy.gif"/>
+    <a href="https://github.com/Joaoalencarl/">
+      <img height="150em"src="https://github-readme-stats.vercel.app/api?username=Joaoalencarl&theme=radical"/>
+      <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark"/>
+    </a>
+  </div>
+
+##
+
+<img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" align="left" height="250"/>
+
+<h3 align="center">
+ <strong>Do you want to develop an app?</strong>
+</h3>
+
+<h3 align="center">
+  <strong>i can help you with that!</strong>
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,swift,git,github,vscode,nodejs,react,nextjs,mongodb,mysql,postman&perline=5" />
+  </a>
+</p>
+
+##
