@@ -1,4 +1,4 @@
-## Olá! meu nome é mauricio e bem-vindo ao meu git 👻 
+## Hello World!, I´m Maurice  
  
 <h4 align="center">
  <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
