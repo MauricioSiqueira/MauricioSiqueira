@@ -17,7 +17,7 @@
 </p>
 
 <div align="left">
-  <a href="https://www.instagram.com/mauricioscb_/" alt="Instagram">
+  <a href="https://www.instagram.com/_mauricioscb/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-b222d2?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
