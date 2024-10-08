@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello World! Eu sou João Antônio, estudante de <strong>Ciências da Computação</strong> atualmente no 6º Periodo especialista em desenvolvimento Back-end e atuante como fullStack
+  Hello World! I´m Maurice, currently i´m studing <strong>computer science</strong>
 </p>
 
 <p align="left">
