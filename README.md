@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello World! I´m Maurice, currently i´m studing <strong>computer science</strong>
+  Hello World! I´m Maurice, currently i´m studing <strong>Computer science</strong>
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript & TypeScript</strong>
+  🦄 Languages: <strong> C#, C++ and enthusiast Kotlin </strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>React.Js | Nest.Js | PostgreSQL</strong>
+  💼 Tools: <strong>Entity | Unity2d | .NET | PostgreSQL</strong>
 </p>
 
 <p align="left">
@@ -17,16 +17,12 @@
 </p>
 
 <div align="left">
-  <a href="https://www.instagram.com/_joaoalencarl/" alt="Instagram">
+  <a href="https://www.instagram.com/mauricioscb_/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-b222d2?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
-  <a href="https:https://www.linkedin.com/in/joaoalencarlima/">
+  <a href="https:https://www.linkedin.com/in/MauricioSiqueira/">
     <img src="https://img.shields.io/badge/-Linkedin-b222d2?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://discord.gg/bD23BU7Rdg" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-b222d2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
 
@@ -34,8 +30,8 @@
 
   <div align="center">
   <img width="150" height="150" src="https://media.giphy.com/media/WCtRYR2Km3v2ipMc0t/giphy.gif"/>
-    <a href="https://github.com/Joaoalencarl/">
-      <img height="150em"src="https://github-readme-stats.vercel.app/api?username=Joaoalencarl&theme=radical"/>
+    <a href="https://github.com/MauricioSiqueira/">
+      <img height="150em"src="https://github-readme-stats.vercel.app/api?username=MauricioSiqueira&theme=radical"/>
       <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark"/>
     </a>
   </div>
