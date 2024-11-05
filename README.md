@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Instagram-b222d2?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
-  <a href="https:https://www.linkedin.com/in/MauricioSiqueira/">
+  <a href="www.linkedin.com/in/Mauricescb">
     <img src="https://img.shields.io/badge/-Linkedin-b222d2?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 </div>
