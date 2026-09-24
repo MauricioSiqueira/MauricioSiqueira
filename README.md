@@ -4,7 +4,7 @@
 
   <div>
       <span>I'm</span>
-      <a href="https://www.linkedin.com/in/mauricescb/">Mauricio Siqueira</a>
+      <a href="https://mauriciosiqueira.vercel.app/">Mauricio Siqueira</a>
       <span>, a junior software engineer based in Maceió, Alagoas</span>
   </div>
   <br>
